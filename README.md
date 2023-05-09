@@ -6,3 +6,5 @@ Composition du groupe :
 - GabrielVernis
 - Kyllian Morrance
 - Julien Loridant
+-------------------------------------
+Depôt des versions finales et fonctionnelles uniquement
