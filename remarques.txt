@@ -1,0 +1,1 @@
+Nous voulions juste vous expliquer que suite à une incompréhension de notre part, nous avons rendu le menu charger diaporama fonctionnel dès la V2 au lieu de la V4. De ce fait, vous devez charger le diaporama pour voir les images s'afficher ainsi que pour tester toutes les autres fonctionnalités qui étaient à implémenter jusqu'à la V4.
